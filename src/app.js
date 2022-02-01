@@ -6,7 +6,7 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 let pronoun = ["the", "our"];
-let adj = ["great", "big"];
+let adj = ["greatt", "big"];
 let noun = ["jogger", "racoon"];
 let diffDomain = [".com", ".url", ".io"];
 let domain = [];
